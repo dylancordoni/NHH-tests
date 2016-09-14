@@ -45,6 +45,23 @@ footer {
   color: white;
   float: left;
 }
+.s:hover{
+  background: black;
+}
+.s{
+  font-size: 2vw;
+  font-family: Nunito;
+  color: white;
+  background: #666699;
+  width: 10em;
+}
+.s{
+  font-size: 2vw;
+  font-family: Nunito;
+  color: white;
+  background: #666699;
+  width: 10em;
+}
 </style>
 </head>
 </html>

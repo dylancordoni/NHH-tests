@@ -45,6 +45,12 @@ footer {
   color: white;
   float: left;
 }
+.nav{
+  background-color: #FFEE00;
+  max-width: 25%;
+  min-width: 140px;
+  flex: 1;
+}
 .s:hover{
   background: black;
 }

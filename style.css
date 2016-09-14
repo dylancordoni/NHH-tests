@@ -47,6 +47,7 @@ footer {
 }
 .nav{
   diplay: block;
+  padding: 10px;
   background-color: #654c67;
   max-width: 25%;
   min-width: 140px;

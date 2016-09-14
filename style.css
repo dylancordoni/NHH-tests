@@ -14,14 +14,15 @@ h1{
   font-family: Nunito;
   color: #666699;
 }
-p{
+div{
   text-align: center;
+}
+p{
   font-size: 2vw;
   font-family: Nunito;
   color: #666699;
 }
 
-}
 .b{
   font-size: 2vw;
   font-family: Nunito;

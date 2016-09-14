@@ -46,6 +46,7 @@ footer {
   float: left;
 }
 .nav{
+  diplay: block;
   background-color: #FFEE00;
   max-width: 25%;
   min-width: 140px;

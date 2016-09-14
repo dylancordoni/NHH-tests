@@ -21,7 +21,9 @@ p{
   color: #666699;
 }
 div{
-  text-align: center;
+  padding-right: 30px;
+  height: 100%;
+  width: 100%;
 }
 .b{
   font-size: 2vw;

@@ -50,7 +50,7 @@ footer {
   padding: 10px;
   background-color: #654c67;
   max-width: 25%;
-  min-width: 140px;
+  min-width: 60px;
   flex: 1;
 }
 .s:hover{
@@ -62,7 +62,7 @@ footer {
   font-family: Nunito;
   color: white;
   background: #666699;
-  width: 10em;
+  width: 3em;
 }
 </style>
 </head>
